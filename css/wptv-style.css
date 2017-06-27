@@ -1,0 +1,12 @@
+/*
+ Created on : May 15, 2017, 5:29:40 PM
+ Author     : shivraj Singh Rawat
+*/
+#wptv_post_type,#wptv_post_meta_fields{width:100%}
+div.wptv-field { padding-bottom: 17px;}
+div.wptv-field label { display: inline-block; width: 140px; text-align: right; vertical-align: top;}
+div.wptv-field input,div.wptv-field select,div.wptv-field textArea{margin-left: 10px;}
+div.wptv-field input[type="text"],div.wptv-field select,div.wptv-field textArea{width:500px}
+.wptv_help_text {margin-left: 151px;font-size: 11px; display: inline;}
+div#wptv-short-code-meta h2,div#wptv-post-type h2,div#wptv-post-details h2,div#wptv-post-meta_details h2,div#wptv-general-settings h2{display:block !important}
+div#wptv-general-settings h2{display:block !important}
